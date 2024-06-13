@@ -31,6 +31,10 @@ public class ControllerClass {
                     myClasses = service.getAll();
                     viewClass.viewStudent(myClasses);
                     break;
+                case 4:
+                    break;
+                case 5:
+                    return;
             }
 
 
